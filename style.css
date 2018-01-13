@@ -1,0 +1,22 @@
+html,body{
+	text-align: center;
+}
+h1{
+	color: maroon;
+	font-style: 96px;
+}
+h2{
+	text-align: left;
+}
+p{
+	text-align: left;
+}
+img{
+	width: 300px;
+}
+ol{
+	text-align: left;
+}
+h3{
+	text-align: left;
+}
